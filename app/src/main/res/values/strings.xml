@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="islamov_islamiddin">Islamov Islamiddin</string>
+    <string name="iuca">IUCA</string>
+    <string name="it_120">IT-120</string>
+    <string name="todo">TODO</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="university_name">International University of Central Asia</string>
+</resources>
